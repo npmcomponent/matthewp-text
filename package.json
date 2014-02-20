@@ -1,9 +1,8 @@
 {
-  "name": "text",
-  "version": "0.0.2",
-  "description": "Cross browser DOM inner text manipulation",
-  "keywords": ["dom","text","innerText","textContent"],
+  "name": "matthewp-text",
+  "description": "Cross-browser DOM text manipulation",
+  "version": "0.0.1",
+  "keywords": [],
   "dependencies": {},
-  "files": ["index.js"],
   "license": "MIT"
 }
